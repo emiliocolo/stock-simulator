@@ -1,0 +1,28 @@
+
+body {
+    background: #000;
+    margin: 0;
+    padding: 0;
+    font: 10px sans-serif;
+  }
+
+.axis path {
+  stroke: #aaa;
+}
+
+.line {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 2px;
+}
+
+.line-agent {
+  fill: none;
+  stroke: yellow;
+  stroke-width: 2px;
+}
+
+.banner {
+  color: red;
+  font-size: 12px;
+}
